@@ -1,3 +1,7 @@
+
+### POINTS: 0
+### KEY: No submissions
+
 # JavaScript: Additional events, timers, add attributes
 
 ### Exercise 1:
